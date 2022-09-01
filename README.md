@@ -1,4 +1,4 @@
-# flutter_app_for_training
+# BMI Flutter
 
 A new Flutter application.
 
